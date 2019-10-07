@@ -1,0 +1,7 @@
+To support the custom map size I started with the idea of adding in text boxes into which users could enter the map x and y limits. 
+Then taking these values and using them as the determing variables in the map size. I ran into the issue of not being able to read these 
+variables in multiple classes. 
+In the move method I tried to implement if loops that will check whether the closest unit is another wizard or a factory or resource building.
+Managed to create the basis for the wazrd units. I undertsand the basis for how to find the area of effect locations that the unit will impact,
+this is shown as a comment in line 126. Honestly I am not sure how to implement this many checks into the DistanceTo() method.
+I am going to start from scratch at Task 1 using the code you provided and try to rebuild everything up from there, taking my time with it. 
