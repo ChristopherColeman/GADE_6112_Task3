@@ -1,0 +1,5 @@
+D:\Vega\2 - GADE\Assignments\Task 1\Save Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+D:\Vega\2 - GADE\Assignments\Task 1\Save Files\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+D:\Vega\2 - GADE\Assignments\Task 1\Save Files\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+D:\Vega\2 - GADE\Assignments\Task 1\Save Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+D:\Vega\2 - GADE\Assignments\Task 1\Save Files\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
